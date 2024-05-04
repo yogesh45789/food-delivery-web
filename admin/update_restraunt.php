@@ -161,7 +161,7 @@ if(isset($_POST['submit']))           //if upload btn is pressed
                         <li class="nav-item dropdown mega-dropdown"> <a class="nav-link dropdown-toggle text-muted  " href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-th-large"></i></a>
                             <div class="dropdown-menu animated zoomIn">
                                 <ul class="mega-dropdown-menu row">
-
+<!-- contact -->
 
                                     <li class="col-lg-3  m-b-30">
                                         <h4 class="m-b-20">CONTACT US</h4>
